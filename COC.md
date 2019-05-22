@@ -1,6 +1,6 @@
 # Code of conduct
 
-**General guideline:** 
+## General guideline:
 
 Developers participating in the projects are expected to enable a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. 
 
